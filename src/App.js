@@ -20,7 +20,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1 className="mt-4">Crypto Today</h1>
+      <h1 className="mt-4">🪙 Crypto Today</h1>
       <div className="row">
         <input
           type="text"
